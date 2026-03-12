@@ -172,7 +172,7 @@ This project helps understand:
 **Shaurya Pathak**
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/shaurya-pathak-6825132b3/
+https://www.linkedin.com/in/shaurya-cse-ai/
 
 ---
 
